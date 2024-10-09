@@ -3,10 +3,9 @@
 @Camaelo26  
 
 🌱 I’m currently exploring **AI and Cloud Technologies**  
-👨‍💻 All my projects are available at [macarthurdibyportfolio.netlify.app](https://macarthurdibyportfolio.netlify.app)  
-💬 Ask me about **Python**, **C++**, **React**, **AWS**  
+👨‍💻 All my projects are available at [macarthurdibyportfolio.netlify.app](https://macarthurdibyportfolio.netlify.app)   
 📫 Reach me at **dibycamael@gmail.com**  
-📄 Know more about my experiences: [Resume](https://github.com/Camaelo26)  
+📄 Know more about my experiences: 
 
 ## Connect with me:
 
